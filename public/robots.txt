@@ -1,9 +1,0 @@
-# Allow all crawlers
-User-agent: *
-Allow: /
-
-# Sitemaps
-Sitemap: https://tscircuit.com/sitemap.xml
-
-# Crawl-delay
-Crawl-delay: 10
